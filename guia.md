@@ -134,3 +134,4 @@ y le aplicamos los siguientes estilos al select:
     border: none;
     border-radius: 4px;
     background-color: #f1f1f1;
+
